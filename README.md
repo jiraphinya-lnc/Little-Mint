@@ -1,11 +1,11 @@
 # Little-Mint
-ทดสอบระบบ Organizations-Jiraphinya-lncrepositories : Create  รีโมท-ระยะไกล By GitHub Desktop จาก Pc แก่ๆ ของ K.Phongwut
+**ทดสอบระบบ Organizations-Jiraphinya-lncrepositories : Create  รีโมท-ระยะไกล By GitHub Desktop จาก Pc แก่ๆ ของ K.Phongwut**
 
 
 #### เล็กๆน้อยๆ
-**`backticks 3 อัน**
+**` อันเล็กๆเนี้ย เรียกว่า backticks**
 
-หากต้องการจัดรูปแบบโค้ดหรือข้อความเป็นบล็อกเฉพาะของตัวเอง **ให้ใช้ backticks สามอัน**
+หากต้องการจัดรูปแบบโค้ดหรือข้อความเป็นบล็อกเฉพาะของตัวเอง backticks สามอัน
 **ตัวอย่าง** **เช่น**  คำสั่ง Git พื้นฐานบางคำสั่งได้แก่:
 ```
 3. git add "มิ้นน้อย.md"
